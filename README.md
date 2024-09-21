@@ -18,7 +18,7 @@ As a data scientist am adapt to programming skills, Excel, Dashboard visualisati
 
 
 
-- 🔭 I’m currently studying **Data Science** at **Moringa School**
+- 🔭 I studied **Data Science** at **Moringa School**
 - 📫 How to reach me: **komuzack@gmail.com**
 - ⚡ Fun fact: **Wrangled data is my Favourite data**
 - 🐱‍👤 Sports: **Am a Blackbelt Karate expert, play LB/RB/CDM in Soccer, Calisthenics, basketball, Archery and badminton**
